@@ -1,0 +1,24 @@
+{
+  "name": "ushell-module-weapp",
+  "version": "1.0.0",
+  "description": "Unix shell module for weapp.",
+  "main": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/ushell-module-weapp.git"
+  },
+  "keywords": [
+    "ushell",
+    "unix",
+    "shell",
+    "ushell-module-weapp"
+  ],
+  "authors": [
+    "feizheng <1290657123@qq.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/ushell-module-weapp/issues"
+  },
+  "homepage": "https://github.com/afeiship/ushell-module-weapp"
+}
