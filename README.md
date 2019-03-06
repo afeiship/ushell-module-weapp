@@ -12,3 +12,7 @@ npm i -S afeiship/ushell-module-weapp --registry=https://registry.npm.taobao.org
 详细信息: https://developers.weixin.qq.com/miniprogram/dev/devtools/cli.html
 ~~~
 
+## setting:
+<img width="500" src="https://ws3.sinaimg.cn/large/006tKfTcgy1g0ti1dmdpfj309u09uab6.jpg"/>
+
+<img width="500" src="https://ws2.sinaimg.cn/large/006tKfTcgy1g0ti2b05gmj30pg0la0ur.jpg"/>
